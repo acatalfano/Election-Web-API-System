@@ -5,6 +5,3 @@ A third party API (the "Coordinator") initiates the election process to be perfo
 The Participants each send their votes to the Coordinator and the Coordinator replies with the ID of the Participant that was elected as the "leader".
 
 The purpose of electing a "leader" API service is beyond the scope of this project; this functionality can be extended to perform some arbitrary task that requires only one service.
-
-## Under Development
-Will be fully completed around mid-to-late April.
